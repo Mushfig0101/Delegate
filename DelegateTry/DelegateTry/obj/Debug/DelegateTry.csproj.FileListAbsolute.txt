@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\bin\Debug\DelegateTry.exe.config
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\bin\Debug\DelegateTry.exe
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\bin\Debug\DelegateTry.pdb
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\obj\Debug\DelegateTry.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\obj\Debug\DelegateTry.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\obj\Debug\DelegateTry.exe
+C:\Users\Code\source\repos\DelegateTry\DelegateTry\obj\Debug\DelegateTry.pdb
